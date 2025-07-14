@@ -1,5 +1,5 @@
 {
-  "name": "Stow",
+  "name": "@runwaystack/stow",
   "private": true,
   "scripts": {
     "build": "turbo run build",
